@@ -1,5 +1,5 @@
 public class helloWorld201 {
     public static void sayHello() {
-        System.debug('Edit in WI 35 Hello, World!');
+        System.debug('Hello, World! edit in WI 36');
     }
 }
