@@ -16,7 +16,7 @@ public with sharing class TopUserFetcher {
             FROM User
             WHERE IsActive = true
             ORDER BY CreatedDate DESC
-            LIMIT 10
+            LIMIT 20
         ];
     }
     
